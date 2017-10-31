@@ -37,8 +37,10 @@
         "#0e031b"
       ]
     },
+    "favicon": "",
+    "noImageResize": "",
     "versionFirst": "4.4.0",
-    "uniqCompNum": 55,
+    "uniqCompNum": 74,
     "versionPublish": "4.4.0"
   },
   "pages": {
